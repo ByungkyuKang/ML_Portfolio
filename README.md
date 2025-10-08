@@ -17,7 +17,7 @@ Currently, the repository features the **Titanic Survival Prediction** project, 
 - 🌲 **Classification Modeling** using `DecisionTreeClassifier`
 - 🔁 **Model Evaluation** with `KFold` and `StratifiedKFold` Cross-Validation
 
-🔗 [View the Notebook → Titanic-Survival-Prediction/titanic_analysis.ipynb](./Titanic-Survival-Prediction/titanic_analysis.ipynb)
+🔗 [View the Notebook → Titanic-Survival-Prediction/notebooks/titanic_analysis.ipynb](./Titanic-Survival-Prediction/notebooks/titanic_analysis.ipynb)
 
 ---
 
