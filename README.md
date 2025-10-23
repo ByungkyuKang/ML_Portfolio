@@ -65,7 +65,7 @@ This folder contains completion certificates and digital badges from online cour
 
 🧰 Personal Projects
 
-  🖼️ Unique Image Organizer (Python-based Tool)
+&nbsp;&nbsp;🖼️ Unique Image Organizer (Python-based Tool)
 
   Location: Personal_Projects/Unique_Img_Process_with_Python/
 
@@ -94,8 +94,11 @@ This folder contains completion certificates and digital badges from online cour
 🚀 Next Steps
 
 🧩 Expand ML projects using scikit-learn and PyTorch
+
 🐳 Learn Docker and FastAPI for model deployment
+
 ⚙️ Integrate MLflow for experiment tracking and versioning
+
 ☁️ Prepare for AWS Certified Solutions Architect and Machine Learning – Specialty
 
 ---
