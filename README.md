@@ -34,12 +34,16 @@ A collection of my machine learning and personal development projects, along wit
 
 This folder contains completion certificates and digital badges from online courses and workshops related to data analysis, Python, and machine learning fundamentals.
 
-  - AWS Cloud Practitioner Essentials – AWS Training & Certification
-  - Databricks Fundamentals Accreditation - Databricks
-  - Pandas – Kaggle
-  - NumPy – Kaggle 
-  - Intro to Programming – Kaggle
-
+- AWS Cloud Practitioner Essentials – AWS Training & Certification
+    
+- Databricks Fundamentals Accreditation - Databricks
+    
+- Pandas – Kaggle
+    
+- NumPy – Kaggle
+    
+- Intro to Programming – Kaggle
+    
 (These are not official certifications but course completions that represent foundational skills.)
 (I'm getting official certifications.)
 
@@ -47,47 +51,59 @@ This folder contains completion certificates and digital badges from online cour
 
 🤖 Machine Learning Projects
 
-  🧩 Titanic Survival Prediction
-    - Location: Machine_Learning_Projects/Titanic-Survival-Prediction/notebooks/titanic_analysis.ipynb
-    - A classic entry-level machine learning project exploring the Titanic passenger dataset.
+
+🧩 Titanic Survival Prediction
+
+- Location: Machine_Learning_Projects/Titanic-Survival-Prediction/notebooks/titanic_analysis.ipynb
+
+- A classic entry-level machine learning project exploring the Titanic passenger dataset.
   
-  This notebook includes:
-    - Data loading and preprocessing with pandas
-    - Model training and evaluation using scikit-learn
 
-  Insights into survival factors such as gender, age, and passenger class
+This notebook includes:
 
-  🧠 Goal: Gain hands-on experience with data preprocessing, feature engineering, and model building.
+- Data loading and preprocessing with pandas
 
-  📊 Dataset: Kaggle Titanic: Machine Learning from Disaster
+- Model training and evaluation using scikit-learn
+
+- Insights into survival factors such as gender, age, and passenger class
+
+
+🧠 Goal: Gain hands-on experience with data preprocessing, feature engineering, and model building.
+
+📊 Dataset: Kaggle Titanic: Machine Learning from Disaster
 
 ---
 
 🧰 Personal Projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;🖼️ Unique Image Organizer (Python-based Tool)
+🖼️ Unique Image Organizer (Python-based Tool)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Personal_Projects/Unique_Img_Process_with_Python/
+Location: Personal_Projects/Unique_Img_Process_with_Python/
 
-&nbsp;&nbsp;&nbsp;&nbsp;Helper to Organize Images.
-&nbsp;&nbsp;&nbsp;&nbsp;This program is a Python-based application designed to simplify personal photo management.
-&nbsp;&nbsp;&nbsp;&nbsp;It groups similar or identical images by inserting a series of numbers at the beginning of their names, making it easier to manage duplicates efficiently.
+Helper to Organize Images.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Key features:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Groups similar images into numbered sets
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Supports directory scanning and image comparison
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Renames images consistently for easy organization
+This program is a Python-based application designed to simplify personal photo management.
+It groups similar or identical images by inserting a series of numbers at the beginning of their names, making it easier to manage duplicates efficiently.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: Python, Pillow, OS library, Tkinter (for file selection UI)
+Key features:
 
-  🌐 Information Scraper (In Progress)
+- Groups similar images into numbered sets
 
-  Location: Personal_Projects/Infomation_Scraper/main.py
+- Supports directory scanning and image comparison
 
-  A simple web scraping tool that will collect and structure useful data from selected websites.
-  Currently under development — the foundation script (main.py) is initialized and being expanded with BeautifulSoup and Requests.
+- Renames images consistently for easy organization
 
-  🧠 Goal: Learn the fundamentals of web scraping, request handling, and data parsing.
+Tech Stack: Python, Pillow, OS library, Tkinter (for file selection UI)
+
+
+🌐 Information Scraper (In Progress)
+
+Location: Personal_Projects/Infomation_Scraper/main.py
+
+A simple web scraping tool that will collect and structure useful data from selected websites.
+Currently under development — the foundation script (main.py) is initialized and being expanded with BeautifulSoup and Requests.
+
+🧠 Goal: Learn the fundamentals of web scraping, request handling, and data parsing.
 
 ---
 
@@ -121,4 +137,5 @@ Currently studying Python, scikit-learn, PyTorch, and AWS Cloud to strengthen my
 🏷️ Tech Stack Overview
 
 Python • NumPy • pandas • scikit-learn • Matplotlib • Jupyter • Tkinter
+
 Planned: Docker • FastAPI • MLflow • AWS
