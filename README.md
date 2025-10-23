@@ -3,7 +3,7 @@
 A collection of my machine learning and personal development projects, along with certifications and course completions that reflect my continuous learning journey in data science and AI.
 
 📁 Repository Structure
-Portfolio/
+<pre>Portfolio/
 ├── Certifications&Badges/
 │   ├── AWS ── AWS Cloud Practitioner Essentials.pdf
 │   ├── Databricks ── Databricks_Fundamentals_Accreditation.pdf
@@ -26,7 +26,7 @@ Portfolio/
     │   ├── image_name_change.py
     │   └── img_processing.py
     └── Infomation_Scraper/
-        └── main.py
+        └── main.py</pre>pre>
 
 🎓 Certifications & Badges
 
@@ -106,9 +106,11 @@ Currently under development — the foundation script (main.py) is initialized a
 I’m an aspiring Machine Learning Engineer passionate about building intelligent systems and continuously improving my technical skills through hands-on projects.
 Currently studying Python, scikit-learn, PyTorch, and AWS Cloud to strengthen my foundation and prepare for professional ML roles.
 
-📫 Contact: [byungkyukang702@gmail.com](mailto:byungkyukang702@gmail.com)
-💼 LinkedIn: [linkedin.com/in/byungkyukang](https://www.linkedin.com/in/byungkyukang)
-📁 GitHub: [[github.com/your-username/Portfolio](https://github.com/ByungkyuKang/Portfolio)]
+## 📫 Contact
+
+- ✉️ **Email:** [byungkyukang702@gmail.com](mailto:byungkyukang702@gmail.com)
+- 💼 **LinkedIn:** [http://www.linkedin.com/in/byungkyukang](http://www.linkedin.com/in/byungkyukang)
+- 🌎 **GitHub:** [github.com/ByungkyuKang](https://github.com/ByungkyuKang)
 
 🏷️ Tech Stack Overview
 
