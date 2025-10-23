@@ -26,7 +26,7 @@ A collection of my machine learning and personal development projects, along wit
     │   ├── image_name_change.py
     │   └── img_processing.py
     └── Infomation_Scraper/
-        └── main.py</pre>pre>
+        └── main.py</pre>
 
 ---
 
