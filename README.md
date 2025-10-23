@@ -46,6 +46,7 @@ This folder contains completion certificates and digital badges from online cour
 ---
 
 🤖 Machine Learning Projects
+
   🧩 Titanic Survival Prediction
     - Location: Machine_Learning_Projects/Titanic-Survival-Prediction/notebooks/titanic_analysis.ipynb
     - A classic entry-level machine learning project exploring the Titanic passenger dataset.
@@ -63,6 +64,7 @@ This folder contains completion certificates and digital badges from online cour
 ---
 
 🧰 Personal Projects
+
   🖼️ Unique Image Organizer (Python-based Tool)
 
   Location: Personal_Projects/Unique_Img_Process_with_Python/
@@ -90,6 +92,7 @@ This folder contains completion certificates and digital badges from online cour
 ---
 
 🚀 Next Steps
+
 🧩 Expand ML projects using scikit-learn and PyTorch
 🐳 Learn Docker and FastAPI for model deployment
 ⚙️ Integrate MLflow for experiment tracking and versioning
