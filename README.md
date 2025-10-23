@@ -45,6 +45,7 @@ This folder contains completion certificates and digital badges from online cour
 - Intro to Programming – Kaggle
     
 (These are not official certifications but course completions that represent foundational skills.)
+
 (I'm getting official certifications.)
 
 ---
