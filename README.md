@@ -65,20 +65,20 @@ This folder contains completion certificates and digital badges from online cour
 
 🧰 Personal Projects
 
-&nbsp;&nbsp;🖼️ Unique Image Organizer (Python-based Tool)
+&nbsp;&nbsp;&nbsp;&nbsp;🖼️ Unique Image Organizer (Python-based Tool)
 
-  Location: Personal_Projects/Unique_Img_Process_with_Python/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Location: Personal_Projects/Unique_Img_Process_with_Python/
 
-  Helper to Organize Images.
-  This program is a Python-based application designed to simplify personal photo management.
-  It groups similar or identical images by inserting a series of numbers at the beginning of their names, making it easier to manage duplicates efficiently.
+&nbsp;&nbsp;&nbsp;&nbsp;Helper to Organize Images.
+&nbsp;&nbsp;&nbsp;&nbsp;This program is a Python-based application designed to simplify personal photo management.
+&nbsp;&nbsp;&nbsp;&nbsp;It groups similar or identical images by inserting a series of numbers at the beginning of their names, making it easier to manage duplicates efficiently.
 
-  Key features:
-    - Groups similar images into numbered sets
-    - Supports directory scanning and image comparison
-    - Renames images consistently for easy organization
+&nbsp;&nbsp;&nbsp;&nbsp;Key features:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Groups similar images into numbered sets
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Supports directory scanning and image comparison
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Renames images consistently for easy organization
 
-  Tech Stack: Python, Pillow, OS library, Tkinter (for file selection UI)
+&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: Python, Pillow, OS library, Tkinter (for file selection UI)
 
   🌐 Information Scraper (In Progress)
 
