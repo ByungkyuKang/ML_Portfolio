@@ -1,3 +1,4 @@
+``` README.md
 🔍 Day 1: Titanic Survival EDA
 📅 Date: 11/03/2025
 🎯 Goal: 
