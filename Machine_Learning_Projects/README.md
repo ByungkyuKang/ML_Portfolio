@@ -1,5 +1,4 @@
 🔍 Day 1: Titanic Survival EDA
-``` Done
 📅 Date: 11/03/2025
 🎯 Goal: 
     - Understanding the data structure,
@@ -8,7 +7,6 @@
 ✅ Result: The dataset contains a total of 891 rows and 15 coloumns, and the key columns with missing values are deck(688), age(177), embarked(2), and embarked_town(2)
 
 🛠️ Day 2: Missing Value Handling & Feature Engineering
-``` Preprocessing
 📅 Date: 11/04/2025
 🎯 Goal: 
     - Age Missing Values (~20%): Imputed with the median (with an option for group-based imputation).
