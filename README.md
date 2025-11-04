@@ -15,7 +15,8 @@ A collection of my machine learning and personal development projects, along wit
 ├── Machine_Learning_Projects/
 │   └── Titanic-Survival-Prediction/
 │       └── notebooks/
-│           └── titanic_analysis.ipynb
+│           ├── titanic_analysis.ipynb
+│           └── titanic_preprocessing(data_from_kaggle).ipynb
 │
 └── Personal_Projects/
     ├── Unique_Img_Process_with_Python/
