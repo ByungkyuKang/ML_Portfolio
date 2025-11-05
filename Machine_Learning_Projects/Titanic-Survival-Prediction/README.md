@@ -7,7 +7,7 @@
     - exploring basic distributions.
 ✅ Result: The dataset contains a total of 891 rows and 15 coloumns, and the key columns with missing values are deck(688), age(177), embarked(2), and embarked_town(2)
 
-🛠️ Day 2: Missing Value Handling & Feature Engineering
+🔍 Day 2: Missing Value Handling & Feature Engineering
 📅 Date: 11/04/2025
 🎯 Goal: 
     - Age Missing Values (~20%): Imputed with the median (with an option for group-based imputation).
@@ -24,3 +24,24 @@
     Age         177     0
     Embarked    2       0
     Cabin       688     688 (Unchanged)
+
+🔍 Day 3: Exploratory Visualization & Correlation Analysis
+📅 Date: 11/05/2025
+🎯 Goal: 
+    - Visualize key features to understand distribution and survival relationships.
+    - Identify potential predictive features based on exploratory charts and correlation patterns.
+
+🛠️ Key Exploratory Focus Areas:
+    - Categorical Variables: Compare survival rates across groups (Sex, Pclass).
+    - Numerical Variables: Analyze age and fare distributions and how they relate to survival.
+    - Correlation Analysis: Review correlation heatmap to find meaningful numerical relationships relevant for model building.
+
+🛠️ Expected Insights:
+    - Female passengers show significantly higher survival rates compared to males.
+    - First–class passengers have the highest survival rate, illustrating socioeconomic influence.
+    - Younger passengers (especially children) tend to have better survival chances.
+    
+✅ Result: 
+    - Female passengers show a significantly higher survival rate than males (around 74% vs 19%), guessing it's becuase of a strong "women and children first" effect.
+    - First-class passengers have the highest survival rate, indicating social class likely influenced rescue priority.
+    - Age is strongly associated with survival, with the youngest group (children) having the highest survival rate, while the 20-40 age range saw high fatality rates, though a resurgence in survival was observed among some middle-aged passengers (early 50s).
