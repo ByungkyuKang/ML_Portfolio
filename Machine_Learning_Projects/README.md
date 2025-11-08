@@ -45,3 +45,16 @@
     - Female passengers show a significantly higher survival rate than males (around 74% vs 19%), guessing it's becuase of a strong "women and children first" effect.
     - First-class passengers have the highest survival rate, indicating social class likely influenced rescue priority.
     - Age is strongly associated with survival, with the youngest group (children) having the highest survival rate, while the 20-40 age range saw high fatality rates, though a resurgence in survival was observed among some middle-aged passengers (early 50s).
+
+Day 4: Numeric/Categorical statistics and simple comparisons (group statistics, percentage tables)
+📅 Date: 11/07/2025
+🎯 Goal: Summarize precise figures (counts and percentages) for each group (such as Gender, Pclass, Title, etc.)
+
+🛠️ Key Exploratory Focus Areas:
+    - Compare survival rate differences between males and females
+    - Analyze survival rates and passenger counts by the combination of passenger class (Pclass) 
+
+✅ Result: 
+    - Overall survival rate: 38.38%
+    - Female survival rate: 74.2% vs Male: 18.9% — There is a significant difference in survival rates between genders.
+    - Pclass=1 survival: 63.0% vs Pclass=2 suvival: 47.3 vs Pclass=3: 24.2% — There is a significant difference in survival rates based on passenger class.
