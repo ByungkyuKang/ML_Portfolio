@@ -20,7 +20,8 @@ A collection of my machine learning and personal development projects, along wit
 │           └── titanic_preprocessing(data_from_kaggle).ipynb
 │               ├── 🔍 Day 2: Missing Value Handling Strategy & Feature Engineering
 |               ├── 🔍 Day 3: Exploratory Visualization & Correlation Analysis
-│               └── 🔍 Day 4: Numeric/Categorical statistics and simple comparisons
+│               ├── 🔍 Day 4: Numeric/Categorical statistics and simple comparisons
+│               └── 🔍 Day 5: Remove unnecessary lines and refactore the unclear parts.
 │
 └── Personal_Projects/
     ├── Unique_Img_Process_with_Python/

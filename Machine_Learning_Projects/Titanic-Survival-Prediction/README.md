@@ -58,3 +58,8 @@ Day 4: Numeric/Categorical statistics and simple comparisons (group statistics, 
     - Overall survival rate: 38.38%
     - Female survival rate: 74.2% vs Male: 18.9% — There is a significant difference in survival rates between genders.
     - Pclass=1 survival: 63.0% vs Pclass=2 suvival: 47.3 vs Pclass=3: 24.2% — There is a significant difference in survival rates based on passenger class.
+
+Day 5: Organizing
+📅 Date: 11/08/2025
+🎯 Goal: Remove unnecessary lines and refactore the unclear parts.
+✅ Result: Done.
