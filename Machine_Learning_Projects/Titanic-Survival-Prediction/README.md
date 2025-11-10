@@ -63,3 +63,15 @@ Day 5: Organizing
 📅 Date: 11/08/2025
 🎯 Goal: Remove unnecessary lines and refactore the unclear parts.
 ✅ Result: Done.
+
+Day 6: Feature Selection and Data Splitting
+📅 Date: 11/10/2025
+🎯 Goal: Select key features for the model and accurately split the dataset into training and validation sets.
+🛠️ Key Steps:
+    - Identify important features influencing survival (e.g., Pclass, Sex, Age, Fare, Embarked, Title).
+    - Drop irrelevant columns such as PassengerId, Name, and Ticket.
+    - Convert categorical variables (like Sex, Embarked, Title) into numeric form using encoding.
+    - Split the dataset into training and validation sets using train_test_split from scikit-learn (e.g., test_size=0.2, random_state=12).
+✅ Result:
+    - Finalized feature set for modeling: ['Pclass', 'Sex', 'Age', 'Fare', 'Embarked', 'Title']
+    - Data successfully divided into training (80%) and validation (20%) sets, ready for model training in the next step.

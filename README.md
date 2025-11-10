@@ -15,14 +15,15 @@ A collection of my machine learning and personal development projects, along wit
 ├── Machine_Learning_Projects/
 │   └── Titanic-Survival-Prediction/
 │       └── notebooks/
-│           ├── titanic_analysis.ipynb
+│           │── titanic_analysis.ipynb
 │           │   └── 🔍 Day 1: Titanic Survival EDA
-│           └── titanic_preprocessing(data_from_kaggle).ipynb
-│               ├── 🔍 Day 2: Missing Value Handling Strategy & Feature Engineering
-|               ├── 🔍 Day 3: Exploratory Visualization & Correlation Analysis
-│               ├── 🔍 Day 4: Numeric/Categorical statistics and simple comparisons
-│               └── 🔍 Day 5: Remove unnecessary lines and refactore the unclear parts.
-│
+│           │── titanic_preprocessing(data_from_kaggle).ipynb
+│           │   ├── 🔍 Day 2: Missing Value Handling Strategy & Feature Engineering
+|           │   ├── 🔍 Day 3: Exploratory Visualization & Correlation Analysis
+│           │   ├── 🔍 Day 4: Numeric/Categorical statistics and simple comparisons
+│           │   └── 🔍 Day 5: Remove unnecessary lines and refactore the unclear parts.
+│           └── Titanic Survival Prediction – Week 2 (Scikit-learn).ipynb
+│               └── 🔍 Day 6: Select features for the model and split the dat into training and testing sets.
 └── Personal_Projects/
     ├── Unique_Img_Process_with_Python/
     │   ├── README.md
