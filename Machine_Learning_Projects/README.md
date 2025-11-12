@@ -75,3 +75,17 @@ Day 6: Feature Selection and Data Splitting
 ✅ Result:
     - Finalized feature set for modeling: ['Pclass', 'Sex', 'Age', 'Fare', 'Embarked', 'Title']
     - Data successfully divided into training (80%) and validation (20%) sets, ready for model training in the next step.
+
+Day 7: Baseline Models — Logistic Regression & Decision Tree
+📅 Date: 11/11/2025
+🎯 Goal: Build and evaluate baseline machine learning models using Logistic Regression and Decision Tree to predict passenger survival.
+
+🛠️ Key Steps:
+    - Trained a Logistic Regression model (random_state=12) and achieved about 82% accuracy on the test set.
+    - Trained a Decision Tree model (random_state=12) which achieved 98% accuracy on the training set but only 75% on the test set, indicating potential overfitting.
+    - Generated classification reports for both models and visualized confusion matrices to analyze performance differences.
+
+✅ Result:
+    - Logistic Regression showed balanced and stable performance (less variance between train/test).
+    - Decision Tree overfitted the training data, confirming the need for hyperparameter tuning or pruning in future steps.
+    - Confusion matrix visualization helped confirm prediction patterns and misclassification areas.
