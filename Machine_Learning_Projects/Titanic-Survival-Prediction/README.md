@@ -1,5 +1,5 @@
 ``` README.md
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔍 Day 1: Titanic Survival EDA
 📅 Date: 11/03/2025
 🎯 Goal: 
@@ -8,7 +8,7 @@
     - exploring basic distributions.
 ✅ Result: The dataset contains a total of 891 rows and 15 coloumns, and the key columns with missing values are deck(688), age(177), embarked(2), and embarked_town(2)
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔍 Day 2: Missing Value Handling & Feature Engineering
 📅 Date: 11/04/2025
 🎯 Goal: 
@@ -27,7 +27,7 @@
     Embarked    2       0
     Cabin       688     688 (Unchanged)
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔍 Day 3: Exploratory Visualization & Correlation Analysis
 📅 Date: 11/05/2025
 🎯 Goal: 
@@ -49,7 +49,7 @@
     - First-class passengers have the highest survival rate, indicating social class likely influenced rescue priority.
     - Age is strongly associated with survival, with the youngest group (children) having the highest survival rate, while the 20-40 age range saw high fatality rates, though a resurgence in survival was observed among some middle-aged passengers (early 50s).
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 4: Numeric/Categorical statistics and simple comparisons (group statistics, percentage tables)
 📅 Date: 11/07/2025
 🎯 Goal: Summarize precise figures (counts and percentages) for each group (such as Gender, Pclass, Title, etc.)
@@ -63,13 +63,13 @@ Day 4: Numeric/Categorical statistics and simple comparisons (group statistics, 
     - Female survival rate: 74.2% vs Male: 18.9% — There is a significant difference in survival rates between genders.
     - Pclass=1 survival: 63.0% vs Pclass=2 suvival: 47.3 vs Pclass=3: 24.2% — There is a significant difference in survival rates based on passenger class.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 5: Organizing
 📅 Date: 11/08/2025
 🎯 Goal: Remove unnecessary lines and refactore the unclear parts.
 ✅ Result: Done.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 6: Feature Selection and Data Splitting
 📅 Date: 11/10/2025
 🎯 Goal: Select key features for the model and accurately split the dataset into training and validation sets.
@@ -82,7 +82,7 @@ Day 6: Feature Selection and Data Splitting
     - Finalized feature set for modeling: ['Pclass', 'Sex', 'Age', 'Fare', 'Embarked', 'Title']
     - Data successfully divided into training (80%) and validation (20%) sets, ready for model training in the next step.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 7: Baseline Models — Logistic Regression & Decision Tree
 📅 Date: 11/11/2025
 🎯 Goal: Build and evaluate baseline machine learning models using Logistic Regression and Decision Tree to predict passenger survival.
@@ -97,7 +97,7 @@ Day 7: Baseline Models — Logistic Regression & Decision Tree
     - Decision Tree overfitted the training data, confirming the need for hyperparameter tuning or pruning in future steps.
     - Confusion matrix visualization helped confirm prediction patterns and misclassification areas.
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Day 8: Cross-validation & Evaluation Metrics
 📅 Date: 11/12/2025
 🎯 Goal: Evaluate model performance using cross-validation and multiple metrics (accuracy, F1-score, ROC-AUC) to ensure stability and robustness.
