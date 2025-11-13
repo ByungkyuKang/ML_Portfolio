@@ -24,7 +24,8 @@ A collection of my machine learning and personal development projects, along wit
 │           │   └── 🔍 Day 5: Remove unnecessary lines and refactore the unclear parts.
 │           └── Titanic Survival Prediction – Week 2 (Scikit-learn).ipynb
 │               ├── 🔍 Day 6: Select features for the model and split the dat into training and testing sets.
-│               └── 🔍 Day 7: Baseline Models — Logistic Regression & Decision Tree
+│               ├── 🔍 Day 7: Baseline Models — Logistic Regression & Decision Tree
+│               └── 🔍 Day 8: Cross-validation & Evaluation Metrics
 │
 └── Personal_Projects/
     ├── Unique_Img_Process_with_Python/
